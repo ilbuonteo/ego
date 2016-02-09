@@ -1,0 +1,2 @@
+# ego
+Ego AQT app
